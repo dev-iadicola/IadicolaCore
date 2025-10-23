@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+
+    <PackageId>IadicolaCore</PackageId>
+    <Version>1.0.0</Version>
+    <Authors>Luigi Iadicola</Authors>
+    <Company>dev-iadicola</Company>
+    <Description>Libreria personale con Logger, ExceptionLog, ITest e utilità comuni</Description>
+    <PackageTags>logger utils common iadicola core</PackageTags>
+    <RepositoryUrl>https://github.com/dev-iadicola/IadicolaCore</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/dev-iadicola/IadicolaCore</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

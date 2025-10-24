@@ -1182,7 +1182,7 @@ node_modules/
 # Visual Studio 6 technical files
 *.ncb
 *.aps
-
+TASK.MD
 # Visual Studio LightSwitch build output
 **/*.HTMLClient/GeneratedArtifacts
 **/*.DesktopClient/GeneratedArtifacts

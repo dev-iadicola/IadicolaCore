@@ -7,7 +7,8 @@
 
 **IadicolaCore** is a .NET library developed by *Luigi Iadicola* that brings together useful tools and helper classes for .NET projects.  
 Designed to simplify the development of console applications and personal frameworks, it includes components for logging, exception handling, and general-purpose utilities.
-
+### Repo 
+ [Repository link](https://github.com/dev-iadicola/IadicolaCore)
 ### Key Features
 - 🧾 **Logger** — A lightweight logging system with `Log`, `Warning`, and `Error` levels  
 - ❗ **ExceptionLog** — Centralized exception handler with detailed output and optional program termination  
@@ -29,6 +30,8 @@ dotnet add package IadicolaCore
 ## 🇮🇹 Descrizione
 
 **IadicolaCore** è una libreria sviluppata da *Luigi Iadicola* che raccoglie strumenti e classi di utilità per progetti .NET.  
+### Repo 
+ [Repository link](https://github.com/dev-iadicola/IadicolaCore)
 Pensata per semplificare lo sviluppo di applicazioni console e framework personali, include componenti per logging, gestione eccezioni e utilità di base.
 
 ### Funzionalità principali

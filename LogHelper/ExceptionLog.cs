@@ -1,6 +1,6 @@
 using System;
 
-namespace IadicolaCore.Log;
+namespace IadicolaCore.LogHelper;
 public class ExceptionLog : Exception
 {
     private readonly string _message;

@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace IadicolaCore.Log;
+namespace IadicolaCore.LogHelper;
 
 delegate void LoggerDel(string message);
 public interface ILogger
@@ -80,7 +80,6 @@ public static class Logger
     {
         string path = "log.log";
         File.AppendAllText(path, $"[LOG]: {DateTime.Now}: {message} {Environment.NewLine}");
-        Console.WriteLine($"Messaggio scritto in {path}");
     }
 
 }
